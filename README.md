@@ -1,2 +1,4 @@
-# hyh-site
-Host for my homepage Jekyll source
+Yuhuang Hu Site
+======================
+
+This site is powered by SinglePaged.
